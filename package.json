@@ -1,0 +1,15 @@
+{
+  "name": "staff",
+  "version": "1.0.0",
+  "description": "Staff App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "JavaScript"
+  ],
+  "author": "Juan Camilo Rico Orjuela <juancarico92@gmail.com>",
+  "license": "MIT"
+}
